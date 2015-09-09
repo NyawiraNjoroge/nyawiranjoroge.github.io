@@ -25,7 +25,8 @@ body {
 }
 
 .jumbotron
-{background-image: url(../images/symphony/symphony.png);}
+{background-image: url(../images/symphony/symphony.png);
+}
 
 h1 {text-align: center;
 	 font-family: 'Jim Nightshade', cursive;
@@ -41,7 +42,7 @@ h3 {text-align: center;}
 	border-radius: 80%;
 }
 
-p {font-size: 50px; !important;}
+p {font-size: 30px; !important;}
 
 .row {text-align: center;
 }
